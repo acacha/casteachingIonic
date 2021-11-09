@@ -1,0 +1,7 @@
+{
+  "name": "casteachingIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
