@@ -119,7 +119,7 @@ export default defineComponent({
       trashSharp, 
       warningOutline, 
       warningSharp,
-      isSelected: (url: string) => url === route.path ? 'selected' : ''
+      isSelected: (url) => url === route.path ? 'selected' : ''
     }
   }
 });
