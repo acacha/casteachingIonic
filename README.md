@@ -11,6 +11,14 @@ https://tubeme.acacha.org/tdd
 Aquest repositori conté el codi de la versió per a Ionic/Mòbils de casteaching. Es tracata d'una versió de la web app casteaching adaptada a mòbils i creada amb Ioni i VueJs.
 L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-se amb el backend (REST API de l'aplicació casteaching) 
 
+# Autor
+
+- Sergi Tur Badenas: https://acacha.github.io
+- Instagram: https://instagram.com/acacha_dev
+- Github: https://github.com/acacha
+
+![image](https://user-images.githubusercontent.com/4015406/140644527-e186bf90-e556-4970-98ed-3f00c5f1af11.png)
+
 # Esborrar typescript
 
 Veieu els commits:
