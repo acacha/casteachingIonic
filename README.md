@@ -8,7 +8,7 @@ https://tubeme.acacha.org/tdd
 
 ## Casteaching Ionic
 
-Aquest repositori conté el codi de la versió per a Ionic/Mòbils de casteaching. Es tracata d'una versió de la web app casteaching adaptada a mòbils i creada amb Ioni i VueJs.
+Aquest repositori conté el codi de la versió per a Ionic/Mòbils de casteaching. Es tracta d'una versió de la web app casteaching adaptada a mòbils i creada amb Ioni i VueJs.
 L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-se amb el backend (REST API de l'aplicació casteaching) 
 
 # Autor
@@ -19,7 +19,27 @@ L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-
 
 ![image](https://user-images.githubusercontent.com/4015406/140644527-e186bf90-e556-4970-98ed-3f00c5f1af11.png)
 
-# Esborrar typescript
+# Sèries
+
+https://tubeme.acacha.org/ionic_real | https://tubeme.acacha.org/ionic_realworld | https://tubeme.acacha.org/ionic_real_world
+
+# Coneixements previs
+
+- NodeJs i NPM i Ionic 101: https://tubeme.acacha.org/ionic
+- Casteaching REST API: https://tubeme.acacha.org/tdd vídeos 124 i 125
+
+# Vídeo 101
+
+Explicació:
+
+- Versió per a mòbils casteaching
+- Comunicació amb el frontend via XHR/Fetch/Axios. REST API casteaching és un coneixement previ
+- Utilitzarem la llibreria npm casteaching -> https://www.npmjs.com/package/casteaching -> Servei que connecta el frontend amb el backend.
+- Utilitzem una plantilla Github com a inici de l'aplicació Ionic en comptes de ionic start -> Us proporciono una versió sense Typescript
+- Plantilles Github vs Forks
+- Vue Router. Client Side Routing Vs Server Side Routing -> SPA -> https://www.vuemastery.com/courses/real-world-vue3/vue-router-essentials
+
+## Esborrar typescript
 
 Veieu els commits:
 
