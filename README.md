@@ -1,3 +1,16 @@
+# Casteaching
+
+Casteaching és una aplicació desenvolupada per Sergi Tur Badenas. Es tracta d'una web app i REST API per a ensenyar utilitzant screencasts.
+
+L'aplicació està desenvolupada amb Laravel i utilitzant TDD (Test Driven Development). Podeu veure com s'ha realitzar aquesta aplicació a la sèrie de vídeos:
+
+https://tubeme.acacha.org/tdd
+
+## Casteaching Ionic
+
+Aquest repositori conté el codi de la versió per a Ionic/Mòbils de casteaching. Es tracata d'una versió de la web app casteaching adaptada a mòbils i creada amb Ioni i VueJs.
+L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-se amb el backend (REST API de l'aplicació casteaching) 
+
 # Esborrar typescript
 
 Veieu els commits:
