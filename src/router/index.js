@@ -8,6 +8,10 @@ const routes = [
   {
     path: '/folder/:id',
     component: () => import ('../views/Folder.vue')
+  },
+  {
+    path: '/videos/:id',
+    component: () => import ('../views/Video.vue')
   }
 ]
 

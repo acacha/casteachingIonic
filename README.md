@@ -6,6 +6,13 @@ L'aplicació està desenvolupada amb Laravel i utilitzant TDD (Test Driven Devel
 
 https://tubeme.acacha.org/tdd
 
+# Coneixements Previs
+
+- API REST que utilitzem -> Videos 124 i 15 de https://tubeme.acacha.org
+- Coneixements bàsics de vue. Recomano haver fet la sèrie: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
+- Coneixement Vue real world: https://www.vuemastery.com/courses/real-world-vue3/rwv3-orientation
+- Opcional (paquet casteaching javascript): TODO
+
 ## Casteaching Ionic
 
 Aquest repositori conté el codi de la versió per a Ionic/Mòbils de casteaching. Es tracta d'una versió de la web app casteaching adaptada a mòbils i creada amb Ioni i VueJs.
