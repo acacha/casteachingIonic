@@ -1,3 +1,8 @@
+https://tubeme.acacha.org/ionic_real | https://tubeme.acacha.org/ionic_realworld | https://tubeme.acacha.org/ionic_real_world
+
+![IonicRealWorldApp](https://user-images.githubusercontent.com/4015406/144209735-7ba351cf-c145-4d21-a5c1-a9350c33b9fa.png)
+
+
 # Casteaching
 
 Casteaching és una aplicació desenvolupada per Sergi Tur Badenas. Es tracta d'una web app i REST API per a ensenyar utilitzant screencasts.
@@ -6,6 +11,10 @@ L'aplicació està desenvolupada amb Laravel i utilitzant TDD (Test Driven Devel
 
 https://tubeme.acacha.org/tdd
 
+## TODO
+
+- Casteaching Landing Page -> Descarrega app a Google Play
+
 # Coneixements Previs
 
 - API REST que utilitzem -> Videos 124 i 15 de https://tubeme.acacha.org
@@ -13,9 +22,12 @@ https://tubeme.acacha.org/tdd
 - Coneixement Vue real world: https://www.vuemastery.com/courses/real-world-vue3/rwv3-orientation
 - Opcional (paquet casteaching javascript): TODO
 
-## TODO
+## Vue
 
-- Casteaching Landing Page -> Descarrega app a Google Play
+Si no coneixeu les bases de Vue us recomano el curs:
+
+https://www.vuemastery.com/courses/intro-to-vue-3
+
 
 ## Casteaching Ionic
 
