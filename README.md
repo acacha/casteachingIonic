@@ -2,7 +2,7 @@
 
 Casteaching és una aplicació desenvolupada per Sergi Tur Badenas. Es tracta d'una web app i REST API per a ensenyar utilitzant screencasts.
 
-L'aplicació està desenvolupada amb Laravel i utilitzant TDD (Test Driven Development). Podeu veure com s'ha realitzar aquesta aplicació a la sèrie de vídeos:
+L'aplicació està desenvolupada amb Laravel i utilitzant TDD (Test Driven Development). Podeu veure com s'ha realitzat aquesta aplicació a la sèrie de vídeos:
 
 https://tubeme.acacha.org/tdd
 
@@ -12,6 +12,10 @@ https://tubeme.acacha.org/tdd
 - Coneixements bàsics de vue. Recomano haver fet la sèrie: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
 - Coneixement Vue real world: https://www.vuemastery.com/courses/real-world-vue3/rwv3-orientation
 - Opcional (paquet casteaching javascript): TODO
+
+## TODO
+
+- Casteaching Landing Page -> Descarrega app a Google Play
 
 ## Casteaching Ionic
 
