@@ -1,3 +1,6 @@
+![IonicRealWorldApp](https://user-images.githubusercontent.com/4015406/144209735-7ba351cf-c145-4d21-a5c1-a9350c33b9fa.png)
+
+
 # Casteaching
 
 Casteaching és una aplicació desenvolupada per Sergi Tur Badenas. Es tracta d'una web app i REST API per a ensenyar utilitzant screencasts.
@@ -12,6 +15,12 @@ https://tubeme.acacha.org/tdd
 - Coneixements bàsics de vue. Recomano haver fet la sèrie: https://www.vuemastery.com/courses/intro-to-vue-3/intro-to-vue3
 - Coneixement Vue real world: https://www.vuemastery.com/courses/real-world-vue3/rwv3-orientation
 - Opcional (paquet casteaching javascript): TODO
+
+## Vue
+
+Si no coneixeu les bases de Vue us recomano el curs:
+
+https://www.vuemastery.com/courses/intro-to-vue-3
 
 ## Casteaching Ionic
 
