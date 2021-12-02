@@ -76,3 +76,25 @@ https://ionicframework.com/docs/vue/quickstart
 Secció:
 
 https://ionicframework.com/docs/vue/quickstart#build-your-way-with-typescript-or-javascript
+
+# Vídeo 104
+
+- Intro amb exemples User Experience:
+- Feedback que es proporciona als usuaris. Tailwind UI té un apartat feedback: Alerts / Empty states
+- Empty States | Skeletons | Placeholders: llista buida de vídeos | que mostrar quan la llista encara s'està carregant
+  - Tailwind UI: https://tailwindui.com/components/application-ui/feedback/empty-states
+  - Ionic: https://ionicframework.com/docs/api/skeleton-text
+- Progress indicators: molt relacionats amb la programació concurrent/asincrona i processos que a priori no sabem quan poden tardar
+  - Spinners| Barras de progrés:https://ionicframework.com/docs/api/loading | https://ionicframework.com/docs/api/progress-bar
+  - Placeholders texts: https://ionicframework.com/docs/api/skeleton-text
+
+Llistes:
+- Simples ion-list: https://ionicframework.com/docs/api/list
+- Pull to refresh: especific de mòbils: ion-refresher
+- Llistes infinites | infinite-scroll: relacionades amb la paginació
+
+Casos ús:
+- Llista de vídeos: tots
+- Pull to refresh al show del video
+- Un cop la api tingui paginació podem implementar llista infinita
+- Mostrar un truc per omplir amb dades inventades la Api
