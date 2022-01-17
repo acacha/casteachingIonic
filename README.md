@@ -101,6 +101,12 @@ Casos ús:
 
 # 106. Auth amb backend Laravel
 
+Vídeos Previs:
+- Un de casteaching com a backend explicant que és Laravel Sanctum
+- Recordar que de moment hem fet una "xapuza" a nivel authenticació i seguretat que és Token Hardcoded  https://github.com/acacha/casteaching_package/blob/main/index.js#L10
+- Al reiniciar amb fresh la base de dades el token s'esborrar i ja no va Videos per Vue
+- Funciona amb Laravel Sanctum?
+
 TODO:
 - Afegir Formulari de login a aplicació Ionic
 - Link a registre al backend Laravel: no cal/bo farem fer registre Ionic
