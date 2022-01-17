@@ -98,3 +98,20 @@ Casos ús:
 - Pull to refresh al show del video
 - Un cop la api tingui paginació podem implementar llista infinita
 - Mostrar un truc per omplir amb dades inventades la Api
+
+# 106. Auth amb backend Laravel
+
+TODO:
+- Afegir Formulari de login a aplicació Ionic
+- Link a registre al backend Laravel: no cal/bo farem fer registre Ionic
+
+Casteaching package:
+- Ara té hardcoded un valor de api token: https://github.com/acacha/casteaching_package/blob/main/index.js#L10
+- S'ha de poder indicar aquest valor al crear la llibreria
+
+Aquest valor s'ha d'obtenir amb:
+
+Laravel Sanctum: 
+- SPA: al mateix domini o subdomini: Utilitzant cookies, no calen tokens
+- Mobile apps: https://laravel.com/docs/8.x/sanctum#mobile-application-authentication
+- 
