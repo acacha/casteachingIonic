@@ -1,13 +1,5 @@
 <template>
   <ion-page>
-    <ion-header :translucent="true">
-      <ion-toolbar>
-        <ion-buttons slot="start">
-          <ion-menu-button color="primary"></ion-menu-button>
-        </ion-buttons>
-        <ion-title>Vídeos</ion-title>
-      </ion-toolbar>
-    </ion-header>
     <ion-content>
     <ion-refresher slot="fixed" @ion-refresh="refresh" id="refresher">
       <ion-refresher-content></ion-refresher-content>
@@ -125,7 +117,8 @@ import {
   IonRefresher,
   IonRefresherContent,
   IonContent,
-  IonSkeletonText, IonMenuButton, IonPage, IonButtons, IonTitle, IonToolbar, IonHeader
+  IonSkeletonText,
+  IonPage
 } from "@ionic/vue";
 import casteaching from '@acacha/casteaching'
 
@@ -141,12 +134,7 @@ export default {
     IonRefresherContent,
     IonContent,
     IonSkeletonText,
-    IonMenuButton,
-    IonPage,
-    IonButtons,
-    IonTitle,
-    IonToolbar,
-    IonHeader
+    IonPage
   },
   data() {
     return {
