@@ -5,7 +5,7 @@
         <ion-buttons slot="start">
           <ion-menu-button color="primary"></ion-menu-button>
         </ion-buttons>
-        <ion-title>Vídeos}</ion-title>
+        <ion-title>Vídeos</ion-title>
       </ion-toolbar>
     </ion-header>
     <ion-content>
