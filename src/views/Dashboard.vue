@@ -5,7 +5,7 @@
         <ion-buttons slot="start">
           <ion-menu-button color="primary"></ion-menu-button>
         </ion-buttons>
-        <ion-title>User</ion-title>
+        <ion-title>Dashboard</ion-title>
       </ion-toolbar>
     </ion-header>
 
@@ -16,27 +16,37 @@
         </ion-toolbar>
       </ion-header>
 
-      <div>
-        <h1>User</h1>
-        Name: {{ this.user && this.user.name}}
-      </div>
+      <ion-card>
+        <ion-card-header>
+          <ion-card-subtitle>TODO</ion-card-subtitle>
+        </ion-card-header>
+        <ion-card-content>
+
+          TODO DASHBOARD
+
+        </ion-card-content>
+      </ion-card>
+
     </ion-content>
   </ion-page>
+
 </template>
 
 <script>
 import {
   IonButtons,
-  IonContent, IonHeader,
+  IonCard, IonCardContent,
+  IonCardHeader, IonCardSubtitle,
+  IonContent,
+  IonHeader,
   IonMenuButton,
-  IonPage, IonTitle, IonToolbar,
+  IonPage,
+  IonTitle,
+  IonToolbar
 } from "@ionic/vue";
 
-import store from "../store";
-
-
 export default {
-  name: 'User',
+  name: 'Dashboard',
   components: {
     IonMenuButton,
     IonContent,
@@ -44,15 +54,11 @@ export default {
     IonButtons,
     IonTitle,
     IonToolbar,
-    IonHeader
+    IonHeader,
+    IonCard,
+    IonCardHeader,
+    IonCardContent,
+    IonCardSubtitle
   },
-  data () {
-    return {
-      user: {}
-    }
-  },
-  async mounted () {
-    this.user = await store.get('user')
-  }
 }
 </script>

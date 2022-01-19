@@ -1,5 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
+import mitt from 'mitt';
+const emitter = mitt();
 import router from './router';
 
 import { IonicVue } from '@ionic/vue';
@@ -28,5 +30,6 @@ const app = createApp(App)
   .use(router);
   
 router.isReady().then(() => {
+  app.config.globalProperties.emitter = emitter;
   app.mount('#app');
 });
