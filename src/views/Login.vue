@@ -57,8 +57,8 @@ import {
 } from "@ionic/vue";
 
 import { Device } from '@capacitor/device';
-import axios from 'axios'
 import store from "../store";
+import casteaching from '@acacha/casteaching'
 
 export default {
   name: 'login',
@@ -96,56 +96,22 @@ export default {
       // 'device_name' => 'required',
       // POST -> URL https://casteaching.alumnedam.me/api/sanctum/token
 
-      //TODO
       let token = null
       const device_name = (info && info.name) || 'TokenCasteachingIonic'
-      // try {
-      //   token = casteaching.login(this.email,this.password,device_name)
-      // } catch (error) {
-      //   console.log(error);
-      // }
-
-
-      const apiClient = axios.create({
-        baseURL: 'https://casteaching.alumnedam.me/api',
-        withCredentials: true,
-        headers: {
-          Accept: 'application/json',
-          'Content-Type': 'application/json',
-          // Authorization: 'Bearer YSqXe8KJiHfx3Z9MGaoic0heLIZ0ifv9ZODV30r0'
-        }
-      })
-      const postData = {
-        email: this.email,
-        password: this.password,
-        device_name: device_name
-      }
-      let response = null
-      let response2 = null
+      const api = casteaching({baseUrl:'https://casteaching.alumnedam.me/api'})
       try {
-        response = await apiClient.post('/sanctum/token', postData)
+         token = await api.login(this.email,this.password,device_name)
+         api.setToken(token)
+      } catch (error) {
+         console.log(error);
+      }
+
+      let user
+      try {
+        user = await api.user()
       } catch (error) {
         console.log(error);
       }
-
-      token = response.data
-
-      const axiosClient = axios.create({
-        baseURL: 'https://casteaching.alumnedam.me/api',
-        withCredentials: true,
-        headers: {
-          Accept: 'application/json',
-          'Content-Type': 'application/json',
-          Authorization: 'Bearer ' + token
-        }
-      })
-
-      try {
-        response2 = await axiosClient.get('/user')
-      } catch (error) {
-        console.log(error);
-      }
-      const user = response2.data
 
       // GUARDAR A L'STORE TANT EL User com el token
       await store.set('token', token)
