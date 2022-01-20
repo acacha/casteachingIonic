@@ -90,7 +90,8 @@ Feu click a create new service.
 - Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
 - Muñoz Zafra, Ferran | http://TODO.ferranmunozzafra.me/
 - Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
-- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
+- Tur Badenas, Sergi: Alumne DAM Prova: https://casteachingionicstatic.onrender.com
+
 # Sèries
 
 https://tubeme.acacha.org/ionic_real | https://tubeme.acacha.org/ionic_realworld | https://tubeme.acacha.org/ionic_real_world
