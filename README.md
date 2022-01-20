@@ -42,6 +42,34 @@ L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-
 
 ![image](https://user-images.githubusercontent.com/4015406/140644527-e186bf90-e556-4970-98ed-3f00c5f1af11.png)
 
+# Codi font dels alumnes
+
+- Audí Bielsa, Daniel: https://github.com/daudi44/TODO
+- Avante Caballé, Marc: https://github.com/AvanteCaballe/TODO
+- Brusca Manchón, Albert: https://github.com/Albert-Brusca/TODO
+- Goncear, Tudor: https://github.com/tgoncear/TODO
+- Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/TODO
+- Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/TODO
+- Pont Lopez, David: Palanka777: https://github.com/Palanka777/TODO.git
+- Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/TODO
+- Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
+- Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/TODO
+- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
+
+
+# Projectes en explotació dels alumnes
+
+- Audí Bielsa, Daniel: http://TODO.danielaudibielsa.codes/
+- Avante Caballé, Marc: http://TODO.marcavante.codes/
+- Brusca Manchón, Albert: http://TODO.albertbrusca.me/
+- Goncear, Tudor: http://TODO.tudorgoncear.me/ 
+- Moreno Giraldo, Jhon: Jhon1348: http://TODO.jhonmoreno.codes
+- Pont Lopez, David: Palanka777: http://TODO.davidpont.me/
+- Rius Rivas, Alba: http://TODO.albarius.codes/
+- Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
+- Muñoz Zafra, Ferran | http://TODO.ferranmunozzafra.me/
+- Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
+- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
 # Sèries
 
 https://tubeme.acacha.org/ionic_real | https://tubeme.acacha.org/ionic_realworld | https://tubeme.acacha.org/ionic_real_world
