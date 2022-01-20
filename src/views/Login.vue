@@ -58,7 +58,6 @@ import {
 
 import { Device } from '@capacitor/device';
 import store from "../store";
-import casteaching from '@acacha/casteaching'
 
 export default {
   name: 'login',
@@ -98,19 +97,20 @@ export default {
 
       let token = null
       const device_name = (info && info.name) || 'TokenCasteachingIonic'
-      const api = casteaching({baseUrl:'https://casteaching.alumnedam.me/api'})
       try {
-         token = await api.login(this.email,this.password,device_name)
-         api.setToken(token)
+         token = await this.casteaching.login(this.email,this.password,device_name)
+         this.casteaching.setToken(token)
       } catch (error) {
          console.log(error);
+         // TODO afegir un toast https://ionicframework.com/docs/api/toast
       }
 
       let user
       try {
-        user = await api.user()
+        user = await this.casteaching.user()
       } catch (error) {
         console.log(error);
+        // TODO afegir un toast https://ionicframework.com/docs/api/toast
       }
 
       // GUARDAR A L'STORE TANT EL User com el token

@@ -120,7 +120,6 @@ import {
   IonSkeletonText,
   IonPage
 } from "@ionic/vue";
-import casteaching from '@acacha/casteaching'
 
 export default {
   name: "Videos",
@@ -155,7 +154,13 @@ export default {
       this.refresher.complete();
     },
     async fetchVideos() {
-      this.videos = await casteaching.videos()
+      try {
+        this.videos = await this.casteaching.videos()
+      } catch (error) {
+        console.log(error);
+        // TODO toast
+      }
+
     }
   }
 }

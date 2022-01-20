@@ -5,7 +5,7 @@
         <ion-buttons slot="start">
           <ion-menu-button color="primary"></ion-menu-button>
         </ion-buttons>
-        <ion-title>Login</ion-title>
+        <ion-title>Logout</ion-title>
       </ion-toolbar>
     </ion-header>
 
@@ -17,7 +17,7 @@
       </ion-header>
       <ion-card>
         <ion-card-header>
-          <ion-card-subtitle>Please login</ion-card-subtitle>
+          <ion-card-subtitle>Logout here!</ion-card-subtitle>
         </ion-card-header>
         <ion-card-content>
 
