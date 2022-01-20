@@ -85,7 +85,7 @@ Feu click a create new service.
 - Brusca Manchón, Albert: http://TODO.albertbrusca.me/
 - Goncear, Tudor: http://TODO.tudorgoncear.me/ 
 - Moreno Giraldo, Jhon: Jhon1348: http://TODO.jhonmoreno.codes
-- Pont Lopez, David: Palanka777: http://TODO.davidpont.me/
+- Pont Lopez, David: Palanka777: https://casteachingionic-palanka.onrender.com
 - Rius Rivas, Alba: http://TODO.albarius.codes/
 - Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
 - Muñoz Zafra, Ferran | http://TODO.ferranmunozzafra.me/
