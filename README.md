@@ -54,7 +54,7 @@ L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-
 - Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/TODO
 - Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
 - Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/casteachingIonic
-- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
+- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/acacha/casteachingIonic
 
 # Com publicar els projectes?
 
