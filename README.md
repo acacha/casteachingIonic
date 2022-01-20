@@ -45,15 +45,15 @@ L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-
 # Codi font dels alumnes
 
 - Audí Bielsa, Daniel: https://github.com/daudi44/TODO
-- Avante Caballé, Marc: https://github.com/AvanteCaballe/casteaching_ionic
+- Avante Caballé, Marc: https://github.com/AvanteCaballe/TODO
 - Brusca Manchón, Albert: https://github.com/Albert-Brusca/TODO
 - Goncear, Tudor: https://github.com/tgoncear/TODO
 - Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/casteachingIonic
-- Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/TODO
+- Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/casteachingIonic
 - Pont Lopez, David: Palanka777: https://github.com/Palanka777/TODO.git
 - Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/TODO
 - Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
-- Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/TODO
+- Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/casteachingIonic
 - Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
 
 # Com publicar els projectes?
@@ -65,17 +65,16 @@ Curs de vue mastery: https://www.vuemastery.com/courses/real-world-vue3/deployin
 Aneu a render.com i entreu amb el vostre usuari de Github:
 
 - Feu click a botó New.
-- Escolliu new Web service
+- Escolliu new static
 - Poseu la URL de vostre projecte Github (és posible que tingueu que donar permisos o fer el projecte public)
-- Nom del projecte: CasteachingIonic (o quelcom similar identificatiu)
-- Environment: node
-- Region Frankfurt
+- Nom del projecte: CasteachingIonic (o quelcom similar identificatiu, per exemple el vostre nom)
 - branch: production
+- comanda: npm run build
+- carpeta: dist
 
 Captura exemple:
 
-![image](https://user-images.githubusercontent.com/4015406/150360326-e1bbb091-68fa-4401-a4a6-646c0e35c4b3.png)
-
+![image](https://user-images.githubusercontent.com/4015406/150368269-3d107053-6378-49ab-bc07-67f00bc66ba1.png)
 
 Feu click a create new service.
 
@@ -91,7 +90,8 @@ Feu click a create new service.
 - Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
 - Muñoz Zafra, Ferran | http://TODO.ferranmunozzafra.me/
 - Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
-- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
+- Tur Badenas, Sergi: Alumne DAM Prova: https://casteachingionicstatic.onrender.com
+
 # Sèries
 
 https://tubeme.acacha.org/ionic_real | https://tubeme.acacha.org/ionic_realworld | https://tubeme.acacha.org/ionic_real_world
