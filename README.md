@@ -45,7 +45,7 @@ L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-
 # Codi font dels alumnes
 
 - Audí Bielsa, Daniel: https://github.com/daudi44/TODO
-- Avante Caballé, Marc: https://github.com/AvanteCaballe/casteaching_ionic
+- Avante Caballé, Marc: https://github.com/AvanteCaballe/TODO
 - Brusca Manchón, Albert: https://github.com/Albert-Brusca/TODO
 - Goncear, Tudor: https://github.com/tgoncear/TODO
 - Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/TODO
@@ -65,17 +65,16 @@ Curs de vue mastery: https://www.vuemastery.com/courses/real-world-vue3/deployin
 Aneu a render.com i entreu amb el vostre usuari de Github:
 
 - Feu click a botó New.
-- Escolliu new Web service
+- Escolliu new static
 - Poseu la URL de vostre projecte Github (és posible que tingueu que donar permisos o fer el projecte public)
-- Nom del projecte: CasteachingIonic (o quelcom similar identificatiu)
-- Environment: node
-- Region Frankfurt
+- Nom del projecte: CasteachingIonic (o quelcom similar identificatiu, per exemple el vostre nom)
 - branch: production
+- comanda: npm run build
+- carpeta: dist
 
 Captura exemple:
 
-![image](https://user-images.githubusercontent.com/4015406/150360326-e1bbb091-68fa-4401-a4a6-646c0e35c4b3.png)
-
+![image](https://user-images.githubusercontent.com/4015406/150368269-3d107053-6378-49ab-bc07-67f00bc66ba1.png)
 
 Feu click a create new service.
 
