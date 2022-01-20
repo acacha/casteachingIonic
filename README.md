@@ -46,7 +46,7 @@ L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-
 
 - Audí Bielsa, Daniel: https://github.com/daudi44/TODO
 - Avante Caballé, Marc: https://github.com/AvanteCaballe/TODO
-- Brusca Manchón, Albert: https://github.com/Albert-Brusca/TODO
+- Brusca Manchón, Albert: https://github.com/Albert-Brusca/casteachingIonic
 - Goncear, Tudor: https://github.com/tgoncear/TODO
 - Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/casteachingIonic
 - Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/casteachingIonic
