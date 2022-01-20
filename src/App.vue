@@ -55,7 +55,8 @@ export default defineComponent({
   },
   data() {
     return {
-      appPages: []
+      appPages: [],
+      selectedIndex: null
     }
   },
   created() {
@@ -70,14 +71,11 @@ export default defineComponent({
     this.setAppPages()
   },
   setup() {
-    const selectedIndex = ref(0);
-
     const labels = ['Family', 'Friends', 'Notes', 'Work', 'Travel', 'Reminders'];
     
     const route = useRoute();
     
     return { 
-      selectedIndex,
       labels,
       archiveOutline, 
       archiveSharp, 
@@ -98,6 +96,7 @@ export default defineComponent({
   },
   methods: {
     async setAppPages() {
+      this.selectedIndex = 0;
       this.appPages = []
       const user = await store.get('user')
       if (user) {
@@ -143,6 +142,13 @@ export default defineComponent({
         iosIcon: paperPlaneOutline,
         mdIcon: paperPlaneSharp
       })
+
+      const path = window.location.pathname;
+      console.log('path:');
+      console.log(path);
+      if (path !== undefined) {
+        this.selectedIndex = this.appPages.findIndex(page => page.url.toLowerCase() === path.toLowerCase());
+      }
     }
   }
 });
