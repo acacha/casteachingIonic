@@ -86,7 +86,7 @@ Feu click a create new service.
 - Goncear, Tudor: http://TODO.tudorgoncear.me/ 
 - Moreno Giraldo, Jhon: Jhon1348: http://TODO.jhonmoreno.codes
 - Pont Lopez, David: Palanka777: https://casteachingionic-palanka.onrender.com
-- Rius Rivas, Alba: http://TODO.albarius.codes/
+- Rius Rivas, Alba: https://casteachingionic-fvju.onrender.com
 - Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
 - Muñoz Zafra, Ferran | http://TODO.ferranmunozzafra.me/
 - Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
