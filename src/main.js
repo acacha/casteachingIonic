@@ -26,11 +26,12 @@ import '@ionic/vue/css/display.css';
 import './theme/variables.css';
 
 import casteaching from '@acacha/casteaching'
+import './registerServiceWorker'
 
 const app = createApp(App)
   .use(IonicVue)
   .use(router);
-  
+
 router.isReady().then(() => {
   app.config.globalProperties.emitter = emitter;
   app.config.globalProperties.casteaching = casteaching({baseUrl:'https://casteaching.alumnedam.me/api'});

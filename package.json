@@ -2,6 +2,7 @@
   "name": "casteachingIonic",
   "version": "0.0.1",
   "private": true,
+  "description": "An Ionic project",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -23,6 +24,7 @@
     "@ionic/vue-router": "^5.4.0",
     "core-js": "^3.6.5",
     "mitt": "^3.0.0",
+    "register-service-worker": "^1.7.1",
     "vue": "^3.2.1",
     "vue-router": "^4.0.0-0"
   },
@@ -31,6 +33,7 @@
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-e2e-cypress": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-pwa": "^4.5.15",
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-plugin-unit-jest": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
@@ -41,6 +44,5 @@
     "fork-ts-checker-webpack-plugin-v5": "npm:fork-ts-checker-webpack-plugin@^5.0.11",
     "vue-jest": "^5.0.0-0",
     "vue-loader-v16": "npm:vue-loader@^16.1.0"
-  },
-  "description": "An Ionic project"
+  }
 }
