@@ -89,7 +89,7 @@ Feu click a create new service.
 - Audí Bielsa, Daniel: http://TODO.danielaudibielsa.codes/
 - Avante Caballé, Marc: http://TODO.marcavante.codes/
 - Brusca Manchón, Albert: https://casteachingionicalbert.onrender.com
-- Goncear, Tudor: http://TODO.tudorgoncear.me/ 
+- Goncear, Tudor: https://casteaching-ionic.onrender.com/
 - Moreno Giraldo, Jhon: Jhon1348: http://TODO.jhonmoreno.codes
 - Pont Lopez, David: Palanka777: https://casteachingionic-palanka.onrender.com
 - Rius Rivas, Alba: http://TODO.albarius.codes/
