@@ -42,6 +42,56 @@ L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-
 
 ![image](https://user-images.githubusercontent.com/4015406/140644527-e186bf90-e556-4970-98ed-3f00c5f1af11.png)
 
+# Codi font dels alumnes
+
+- Audí Bielsa, Daniel: https://github.com/daudi44/casteaching-ionic
+- Avante Caballé, Marc: https://github.com/AvanteCaballe/casteaching_ionic
+- Brusca Manchón, Albert: https://github.com/Albert-Brusca/casteachingIonic
+- Goncear, Tudor: https://github.com/tgoncear/casteaching-ionic
+- Moreno Giraldo, Jhon: Jhon1348: https://github.com/Jhon1348/casteachingIonic
+- Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/casteachingIonic
+- Pont Lopez, David: Palanka777: https://github.com/Palanka777/casteaching_ionic.git
+- Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/casteachingIonic
+- Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
+- Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/casteachingIonic
+- Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/acacha/casteachingIonic
+
+# Com publicar els projectes?
+
+Similar a com vam fer amb el projecte ionic-comptador: https://www.youtube.com/watch?v=e03ea9TQ6lg&list=PLyasg1A0hpk0Z60Jg0kMpjP_Nw5ZTA7My&index=8
+
+Curs de vue mastery: https://www.vuemastery.com/courses/real-world-vue3/deploying-with-render/
+
+Aneu a render.com i entreu amb el vostre usuari de Github:
+
+- Feu click a botó New.
+- Escolliu new static
+- Poseu la URL de vostre projecte Github (és posible que tingueu que donar permisos o fer el projecte public)
+- Nom del projecte: CasteachingIonic (o quelcom similar identificatiu, per exemple el vostre nom)
+- branch: production
+- comanda: npm run build
+- carpeta: dist
+
+Captura exemple:
+
+![image](https://user-images.githubusercontent.com/4015406/150368269-3d107053-6378-49ab-bc07-67f00bc66ba1.png)
+
+Feu click a create new service.
+
+# Projectes en explotació dels alumnes
+
+- Audí Bielsa, Daniel: http://TODO.danielaudibielsa.codes/
+- Avante Caballé, Marc: http://TODO.marcavante.codes/
+- Brusca Manchón, Albert: http://TODO.albertbrusca.me/
+- Goncear, Tudor: http://TODO.tudorgoncear.me/ 
+- Moreno Giraldo, Jhon: Jhon1348: http://TODO.jhonmoreno.codes
+- Pont Lopez, David: Palanka777: https://casteachingionic-palanka.onrender.com
+- Rius Rivas, Alba: http://TODO.albarius.codes/
+- Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
+- Muñoz Zafra, Ferran | http://TODO.ferranmunozzafra.me/
+- Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
+- Tur Badenas, Sergi: Alumne DAM Prova: https://casteachingionicstatic.onrender.com
+
 # Sèries
 
 https://tubeme.acacha.org/ionic_real | https://tubeme.acacha.org/ionic_realworld | https://tubeme.acacha.org/ionic_real_world
