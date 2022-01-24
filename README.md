@@ -80,7 +80,7 @@ Feu click a create new service.
 
 # Projectes en explotació dels alumnes
 
-- Audí Bielsa, Daniel: http://TODO.danielaudibielsa.codes/
+- Audí Bielsa, Daniel: https://casteaching-ionic-daniel-audi-bielsa.onrender.com
 - Avante Caballé, Marc: http://TODO.marcavante.codes/
 - Brusca Manchón, Albert: http://TODO.albertbrusca.me/
 - Goncear, Tudor: http://TODO.tudorgoncear.me/ 
