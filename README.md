@@ -94,7 +94,7 @@ Feu click a create new service.
 - Pont Lopez, David: Palanka777: https://casteachingionic-palanka.onrender.com
 - Rius Rivas, Alba: https://casteachingionic-fvju.onrender.com
 - Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
-- Muñoz Zafra, Ferran | http://TODO.ferranmunozzafra.me/
+- Muñoz Zafra, Ferran | https://casteachingionicfmz.onrender.com
 - Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
 - Tur Badenas, Sergi: Alumne DAM Prova: https://casteachingionicstatic.onrender.com
 
