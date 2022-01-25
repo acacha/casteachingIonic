@@ -90,7 +90,7 @@ Feu click a create new service.
 - Avante Caballé, Marc: http://TODO.marcavante.codes/
 - Brusca Manchón, Albert: https://casteachingionicalbert.onrender.com
 - Goncear, Tudor: https://casteaching-ionic.onrender.com/
-- Moreno Giraldo, Jhon: Jhon1348: http://TODO.jhonmoreno.codes
+- Moreno Giraldo, Jhon: Jhon1348: https://jhon-casteaching-ionic.onrender.com
 - Pont Lopez, David: Palanka777: https://casteachingionic-palanka.onrender.com
 - Rius Rivas, Alba: https://casteachingionic-fvju.onrender.com
 - Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
