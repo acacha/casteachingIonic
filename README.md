@@ -90,7 +90,7 @@ Feu click a create new service.
 - Rius Rivas, Alba: http://TODO.albarius.codes/
 - Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
 - Muñoz Zafra, Ferran | http://TODO.ferranmunozzafra.me/
-- Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
+- Urs, Gabriel: l3lackJack: https://gabrie-comptadorionic.onrender.com
 - Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/AlumneDAMPRova/TODO
 # Sèries
 
