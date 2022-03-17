@@ -58,7 +58,7 @@ L'aplicació Ionic és una aplicació Frontend que utilitza Axios per comunicar-
 - Muñoz Zafra, Ferran | https://github.com/Fmunozzafra/casteachingIonic
 - Pont Lopez, David: Palanka777: https://github.com/Palanka777/casteaching_ionic.git
 - Rius Rivas, Alba: AlbaRiius: https://github.com/AlbaRiius/casteachingIonic
-- Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/TODO
+- Tomas Altadill, Axel: AxelTomas99: https://github.com/AxelTomas99/casteaching_Ionic
 - Gabriel Urs. Gabriel: l3lackJack https://github.com/l3lackJack/casteachingIonic
 - Tur Badenas, Sergi: Alumne DAM Prova: https://github.com/acacha/casteachingIonic
 
@@ -93,7 +93,7 @@ Feu click a create new service.
 - Moreno Giraldo, Jhon: Jhon1348: https://jhon-casteaching-ionic.onrender.com
 - Pont Lopez, David: Palanka777: https://casteachingionic-palanka.onrender.com
 - Rius Rivas, Alba: https://casteachingionic-fvju.onrender.com
-- Tomas Altadill, Axel: AxelTomas99: http://TODO.axeltomas.codes/
+- Tomas Altadill, Axel: AxelTomas99: https://casteaching-ionic-1ykr.onrender.com/
 - Muñoz Zafra, Ferran | https://casteachingionicfmz.onrender.com
 - Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
 - Tur Badenas, Sergi: Alumne DAM Prova: https://casteachingionicstatic.onrender.com
