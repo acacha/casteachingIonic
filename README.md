@@ -95,7 +95,7 @@ Feu click a create new service.
 - Rius Rivas, Alba: https://casteachingionic-fvju.onrender.com
 - Tomas Altadill, Axel: AxelTomas99: https://casteaching-ionic-1ykr.onrender.com/
 - Muñoz Zafra, Ferran | https://casteachingionicfmz.onrender.com
-- Urs, Gabriel: l3lackJack: http://TODO.gabriel.alumnedam.me/
+- Urs, Gabriel: l3lackJack: https://gabrie-comptadorionic.onrender.com/
 - Tur Badenas, Sergi: Alumne DAM Prova: https://casteachingionicstatic.onrender.com
 
 # Sèries
