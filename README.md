@@ -87,7 +87,7 @@ Feu click a create new service.
 # Projectes en explotació dels alumnes
 
 - Audí Bielsa, Daniel: https://casteaching-ionic-daniel-audi-bielsa.onrender.com
-- Avante Caballé, Marc: http://TODO.marcavante.codes/
+- Avante Caballé, Marc: https://casteachingionicavante.onrender.com/
 - Brusca Manchón, Albert: https://casteachingionicalbert.onrender.com
 - Goncear, Tudor: https://casteaching-ionic.onrender.com/
 - Moreno Giraldo, Jhon: Jhon1348: https://jhon-casteaching-ionic.onrender.com
